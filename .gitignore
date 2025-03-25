@@ -1,2 +1,7 @@
 Hackathon/engage-hackathon-2025/*
-data/*
+Hackathon/data/*
+Hackathon/scenarios/*
+Hackathon/model_data/*
+Hackathon/samples/*
+Hackathon/sample_scenario/*
+Hackathon/metrics/*
